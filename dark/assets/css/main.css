@@ -699,6 +699,10 @@ input, select, textarea {
 			margin: 2.5rem 0;
 			width: 100%;
 		}
+		 .image .main .intro img {
+			transform: rotate(90deg);
+			margin: 15% auto;
+		}
 
 			.image.main img {
 				width: 100%;
