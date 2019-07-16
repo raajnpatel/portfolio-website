@@ -2,11 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c3b5582-d274-4c0a-ab99-a1efb4deee1a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dark/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dark/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dark/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dark/images/pic01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dark/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dark/images/pic02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dark/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dark/images/pic03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dark/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dark/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/css/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/css/noscript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/js/breakpoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/js/browser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/js/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/base/_page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/components/_actions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/components/_box.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/components/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/components/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/components/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/components/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/components/_table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/layout/_bg.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/layout/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/layout/_wrapper.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/libs/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/libs/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/libs/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/libs/_vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/libs/_vendor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/sass/noscript.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/images/bg-OG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/images/pic01-OG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/images/pic02-OG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/images/pic03-OG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/images/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark/index.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,40 +70,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/dark/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
-                  <caret line="87" column="16" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/dark/assets/css/main.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="500">
-                  <caret line="705" lean-forward="true" selection-start-line="705" selection-end-line="705" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>logo</find>
       <find>icon</find>
       <find>image</find>
+      <find>logo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,30 +128,6 @@
               <item name="portfolio-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio-website" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="portfolio-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-website" type="462c0819:PsiDirectoryNode" />
-              <item name="dark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-website" type="462c0819:PsiDirectoryNode" />
-              <item name="dark" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-website" type="462c0819:PsiDirectoryNode" />
-              <item name="dark" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-website" type="462c0819:PsiDirectoryNode" />
-              <item name="dark" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -126,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../responsive-web-design-I" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -148,6 +159,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio-website/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -158,7 +179,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563306475228</updated>
-      <workItem from="1563306476350" duration="5671000" />
+      <workItem from="1563306476350" duration="6336000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit&#10;&#10;1 notable change made:&#10;background image changed">
       <created>1563306969487</created>
@@ -174,18 +195,25 @@
       <option name="project" value="LOCAL" />
       <updated>1563309815567</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3rd commit&#10;&#10;3 notable change made:&#10;all sections completed with photos and text&#10;max-width set as to not stretch the entire screen width&#10;&#10;project MVP goals complete!&#10;&#10;this was not a very long project, otherwise I would've committed much more!">
+      <created>1563314735495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563314735495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5671000" />
+    <option name="totallyTimeSpent" value="6336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12340765" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12340765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -194,7 +222,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39952904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -209,9 +237,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit&#10;&#10;1 notable change made:&#10;background image changed" />
     <MESSAGE value="2nd commit&#10;&#10;2 notable change made:&#10;short bio updated&#10;categories selected&#10;-text inputted but requires resizing&#10;&#10;3rd commit should include:&#10;header selectors properly resized&#10;My Pup (Olive) section completed with photo and text" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd commit&#10;&#10;2 notable change made:&#10;short bio updated&#10;categories selected&#10;-text inputted but requires resizing&#10;&#10;3rd commit should include:&#10;header selectors properly resized&#10;My Pup (Olive) section completed with photo and text" />
+    <MESSAGE value="3rd commit&#10;&#10;3 notable change made:&#10;all sections completed with photos and text&#10;max-width set as to not stretch the entire screen width&#10;&#10;project MVP goals complete!&#10;&#10;this was not a very long project, otherwise I would've committed much more!" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd commit&#10;&#10;3 notable change made:&#10;all sections completed with photos and text&#10;max-width set as to not stretch the entire screen width&#10;&#10;project MVP goals complete!&#10;&#10;this was not a very long project, otherwise I would've committed much more!" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dark/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="87" column="16" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dark/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -219,10 +255,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dark/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="87" column="16" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="16" />
+        <state relative-caret-position="527">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
         </state>
       </provider>
     </entry>
